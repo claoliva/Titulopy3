@@ -1,5 +1,6 @@
 import streamlit as st
 st.title('Este é o título do app')
+import streamlit as st
 st.head('Este é o subtítulo')
 st.subheader('Este é o terceiro subtítulo')
 st.markdown('Este é texto')
